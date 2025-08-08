@@ -243,14 +243,8 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>framebuffer-fbmem</key>
-				<data>AACQAA==</data>
-				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
-				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
 				<key>AAPL,ig-platform-id</key>
-				<data>AwAiDQ==</data>
+				<data>BAASBA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
 			<dict>
@@ -1054,7 +1048,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>D25413102QXG36DA8</string>
+			<string>C02540501GUG2Y7A8</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1066,11 +1060,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac14,4</string>
+			<string>iMac15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>D25MH0FJFY0T</string>
+			<string>C02QHYZ3FY10</string>
 			<key>SystemUUID</key>
-			<string>11255563-8A61-4668-A8B2-BC11A1B2E4E0</string>
+			<string>3410FB13-3A31-46FB-8AC3-8108DA4ADB80</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
